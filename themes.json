@@ -1,0 +1,28 @@
+{
+    "themes": [
+        {
+            "name": "Creeper",
+            "main_gif": "imgs/creeper_n.gif",
+            "click_gif": "imgs/creeper_l.gif",
+            "mode": "wait"
+        },
+        {
+            "name": "Campfire",
+            "main_gif": "imgs/campfire.gif",
+            "click_gif": "imgs/campfire.gif",
+            "mode": "wait"
+        },
+        {
+            "name": "EndC15fps",
+            "main_gif": "imgs/endc_n.gif",
+            "click_gif": "imgs/endc_l.gif",
+            "mode": "immediate"
+        },
+        {
+            "name": "EndC30fps",
+            "main_gif": "imgs/endc2_n.gif",
+            "click_gif": "imgs/endc2_l.gif",
+            "mode": "immediate"
+        }
+    ]
+}
