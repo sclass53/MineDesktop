@@ -3,7 +3,7 @@ A very simple desktop mate program that displays a Minecraft-themed GIF Image.
 
 ## Usage
 
-Download the newest release, unzip it, and run `main.exe`.
+Download the newest release, unzip it, and run `pet.exe`.
 
 ## Build
 
@@ -15,5 +15,5 @@ git clone https://github.com/sclass53/MineDesktop.git .
 
 Run
 ```cmd
-pyinstaller --noconsole --onefile main.py
+pyinstaller --noconsole --onefile pet.py
 ```
